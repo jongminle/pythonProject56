@@ -15,7 +15,7 @@ with open('hello.txt', 'rb') as source:
                 break
             copy.write(buffer)
 print('hello2.txt 파일이 복사 되었습니다.')
-
+#dd
 
 
 

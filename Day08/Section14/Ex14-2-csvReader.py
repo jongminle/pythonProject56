@@ -15,7 +15,7 @@ with open('학생명단.csv', 'rt', encoding='UTF-8') as file:
         student = line.split(',')
         student_list.append(student)
 print(student_list)
-
+#dd
 
 
 
