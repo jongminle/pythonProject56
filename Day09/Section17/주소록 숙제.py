@@ -17,6 +17,9 @@ if selct==1:
     add_PHnum=input('연락처를 입력하세요 >>>')
     add_add=input('주소를 입력하세요 >>>')
 
+elif selct==0:
+    print('프로그램을 종료합니다.')
+
 
 
 
